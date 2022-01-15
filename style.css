@@ -9,6 +9,7 @@
   width: 400px;
   margin-top: 100px;
   border: cadetblue 1px solid;
+  box-shadow: 10px 10px 8px #888888;
 }
 
 img {
@@ -28,11 +29,31 @@ img {
   margin-left: 100px;
   margin-top: 10px;
 }
-
 p{
   margin-top: 10px;
   margin-bottom: 10px;
   width: 200px;
   margin-left: 10px;
 }
+.updates{
+  display: flex;
+  margin-left: 10px;
+}
+.buttons{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+button:hover{
+background-color: darkcyan;
+}
+.like-btn{
+  margin-left: 20px;
+}
+.retweet-btn{
+  margin-left: 10px;
+}
+
 
