@@ -39,6 +39,9 @@ p{
   display: flex;
   margin-left: 10px;
 }
+strong{
+ margin: 0 4px; 
+}
 .buttons{
   display: flex;
   margin-left: 10px;
